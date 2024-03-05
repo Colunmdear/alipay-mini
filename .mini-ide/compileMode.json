@@ -1,0 +1,10 @@
+{
+  "modes": [
+    {
+      "title": "detail",
+      "page": "taro/pages/detail/index",
+      "launchMode": "common",
+      "pageQuery": ""
+    }
+  ]
+}

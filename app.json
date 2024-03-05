@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/index/index",
+    "taro/pages/detail/index"
+  ],
+  "window": {
+    "defaultTitle": "My App"
+  }
+}

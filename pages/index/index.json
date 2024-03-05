@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "article":"/taro/components/article/index"
+  }
+}
